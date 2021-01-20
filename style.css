@@ -1,0 +1,13 @@
+.container {
+    width: auto;
+    max-width: 680px;
+}
+  
+.title {
+    font-size: 4rem;
+}
+
+.logo {
+    max-width: 50%;
+    height: auto;
+}
